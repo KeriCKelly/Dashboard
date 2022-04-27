@@ -4,6 +4,7 @@
 
 ## What Is This?
 The concept of a Dashboard appears nearly everywhere. Most obvious are car dashboards with displays of speed, mileage, and navigation. Less obvious examples are: the FaceBook banner with notifications, informational displays in lobbies, and “widgets” on iOS and Android. A portion of a larger display is a widget.
+I am making myself a basic dashboard with everything I may need to function throughout the day.
 
 * [Android Widgets](https://developer.android.com/guide/topics/appwidgets/overview)
 * [iOS Widgets](https://www.imore.com/widgets-ios-8-explained)
