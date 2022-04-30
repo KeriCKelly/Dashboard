@@ -14,5 +14,6 @@ I am making myself a basic dashboard with everything I may need to function thro
 * Dashboards convey information in real-time — without prompting
 * Apply concepts from Web Design 1 and 2 with APIs from Web 3
 
-## Citations
-List your sources here
+## Citations (Thank you for your support!)
+Rio image: Imagesource.com
+Gambetta font: @ Fontshare.com
