@@ -15,5 +15,5 @@ I am making myself a basic dashboard with everything I may need to function thro
 * Apply concepts from Web Design 1 and 2 with APIs from Web 3
 
 ## Citations (Thank you for your support!)
-Rio image: Imagesource.com
+Random images: @ https://random.imagecdn.app/
 Gambetta font: @ Fontshare.com
